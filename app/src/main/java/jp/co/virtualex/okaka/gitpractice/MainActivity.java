@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         /**
          * コミットの練習01
+         * フェッチ・マージの練習01
          */
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
