@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
         /**
          * コミットの練習01
          * フェッチ・マージの練習01
+         * コンフリクト用の練習02
          */
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
